@@ -1,0 +1,104 @@
+[
+ {
+  "name": "QueryMate AI Based Academic Query Assistant",
+  "desc": "Designed and built a RAG-powered query resolution system reducing average query response time.",
+  "image": "querymate",
+  "category": "fyp ai python",
+  "links": {
+    "view": "https://github.com/hurairaejaz/QueryMate-AI-Student-Query-Solving-System",
+    "code": "https://github.com/hurairaejaz/QueryMate-AI-Student-Query-Solving-System"
+  }
+  },
+  {
+    "name": "Pearls-AQI-Predictor",
+    "desc": " Built an end-to-end, 100% serverless ML pipeline forecasting Air Quality Index 3 days ahead.",
+    "image": "aqi",
+    "category": "ai python",
+    "links": {
+      "view": "https://github.com/hurairaejaz/Pearls-aqi-Predictor",
+      "code": "https://github.com/hurairaejaz/Pearls-aqi-Predictor"
+    }
+  },
+  {
+    "name": "Documents Q/A Chatbot",
+    "desc": "Developed a chatbot that can answer questions based on the content of uploaded documents using RAG and NLP techniques.",
+    "image": "chatbot",
+    "category": "ai python",
+    "links": {
+      "view": "https://github.com/hurairaejaz/Document-Q-A-Chatbot",
+      "code": "https://github.com/hurairaejaz/Document-Q-A-Chatbot"
+    }
+  },
+  {
+    "name": "Punjabi Dera Management System",
+    "desc": "Develope a web-based management system for a Punjabi Dera Resturant to streamline operations, track members, and manage events.",
+    "image": "punjabidera",
+    "category": "basicweb",
+    "links": {
+      "view": "https://punjabi-dera-deom01.vercel.app/",
+      "code": "https://github.com/hurairaejaz/Punjabi-Dera-Resturant-Managemnet-system-"
+    }
+  },
+  {
+    "name": "AB Mobiles Wholesale Management System",
+    "desc": "Developed a web-based management system for AB Mobiles to streamline operations, track inventory, and manage sales.",
+    "image": "abmobiles",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ab-mobilesdemo01.vercel.app/",
+      "code": "https://github.com/hurairaejaz/AB-Mobiles-Demo"
+    }
+  },
+  {
+    "name": "Mini Jarvis ",
+    "desc": " Basic voice assistant using Python libraries such as speech_recognition, pyttsx3 to automate simple desktop tasks",
+    "image": "jarvis",
+    "category": "python ai",
+    "links": {
+      "view": "https://github.com/hurairaejaz/Jarvis-an-AI-Voice-Assistant-using-Python",
+      "code": "https://github.com/hurairaejaz/Jarvis-an-AI-Voice-Assistant-using-Python"
+    }
+  },
+  {
+    "name": "ASC Timetable Web Application",
+    "desc": " Created a class timetable web application (ASC Timetable) for admin use within academic environments. ",
+    "image": "asc",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/hurairaejaz/aSc-Time-Table-FrontEnd",
+      "code": "https://github.com/hurairaejaz/aSc-Time-Table-FrontEnd"
+    }
+  },
+  {
+    "name": "Automobile Sales Analysis and Visualization with Python",
+    "desc": "Performed data cleaning and analysis on historical automobile sales data using pandas and matplotlib. ",
+    "image": "automobiles",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/hurairaejaz/Historical-Automobile-Sales-Data-Visualization-with-Python-",
+      "code": "https://github.com/hurairaejaz/Historical-Automobile-Sales-Data-Visualization-with-Python-"
+    }
+  },
+  {
+    "name": "KC Housing Market Analysis and Visualization Using Python",
+    "desc": " Performed data preprocessing, correlation analysis, and visualization to support data-driven real estate insights. ",
+    "image": "kc",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/hurairaejaz/KC-House-data-Analysis-using-python-Data-Analytics-project",
+      "code": "https://github.com/hurairaejaz/KC-House-data-Analysis-using-python-Data-Analytics-project"
+    }
+  },
+  {
+    "name": "Hotel Booking Analysis",
+    "desc": "Analyzed hotel booking trends and customer patterns using Excel functions, pivot tables, and charts. ",
+    "image": "hotel",
+    "category": "excel",
+    "links": {
+      "view": "https://github.com/hurairaejaz/Hotel-Booking-Analysis-using-MS-Excel",
+      "code": "https://github.com/hurairaejaz/Hotel-Booking-Analysis-using-MS-Excel"
+    }
+  }
+  
+ 
+]
